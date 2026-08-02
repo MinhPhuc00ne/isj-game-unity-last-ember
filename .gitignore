@@ -111,3 +111,6 @@ video/
 
 # Exception for documentation screenshots
 !doc/screenshots/*.png
+!doc/screenshots/*.jpg
+!doc/screenshots/*.jpeg
+

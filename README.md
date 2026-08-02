@@ -42,6 +42,7 @@
 | <img src="doc/screenshots/ruins.png" alt="Ancient Ruins" width="100%"/> | <img src="doc/screenshots/lakeside.png" alt="Lakeside View" width="100%"/> |
 | *Overgrown ancient ruined mansion with fountain* | *Atmospheric lake view and dense foliage* |
 
+
 ---
 
 ## ✨ Key Features
