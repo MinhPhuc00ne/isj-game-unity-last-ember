@@ -16,7 +16,7 @@
 
 | Ashfall Nature Reserve Entrance | Aerial Map Overview & Lake |
 | :---: | :---: |
-| ![Ashfall Nature Reserve Sign](./doc/screenshots/Screenshot%202026-08-02%20194014.png) | ![Aerial Map View](./doc/screenshots/Screenshot%202026-08-02%20193841.png) |
+| ![Ashfall Nature Reserve Sign](./doc/screenshots/entrance.png) | ![Aerial Map View](./doc/screenshots/aerial.png) |
 | *Entrance to Ashfall Nature Reserve* | *Aerial overview of valley, lake, and terrain* |
 
 ---
@@ -25,7 +25,7 @@
 
 | Abandoned Bus & Campsite | Lakeside Campfire & Cooking Pot |
 | :---: | :---: |
-| ![Abandoned Bus](./doc/screenshots/Screenshot%202026-08-02%20193404.png) | ![Campfire by Lake](./doc/screenshots/Screenshot%202026-08-02%20194042.png) |
+| ![Abandoned Bus](./doc/screenshots/bus.png) | ![Campfire by Lake](./doc/screenshots/campfire.png) |
 | *Rusty abandoned bus and camping tents* | *Lifesaving campfire setup by the lake* |
 
 ---
@@ -34,12 +34,12 @@
 
 | Abandoned Wooden Cabin | Cabin Interior & Window View |
 | :---: | :---: |
-| ![Wooden Cabin](./doc/screenshots/Screenshot%202026-08-02%20193935.png) | ![Cabin Interior](./doc/screenshots/Screenshot%202026-08-02%20193740.png) |
+| ![Wooden Cabin](./doc/screenshots/cabin.png) | ![Cabin Interior](./doc/screenshots/interior.png) |
 | *Mysterious abandoned wooden cabin* | *Interior view with wall frame & forest window* |
 
 | Overgrown Ancient Courtyard Ruins | Lakeside Panorama & Forest |
 | :---: | :---: |
-| ![Ancient Ruins](./doc/screenshots/Screenshot%202026-08-02%20194239.png) | ![Lakeside View](./doc/screenshots/Screenshot%202026-08-02%20194101.png) |
+| ![Ancient Ruins](./doc/screenshots/ruins.png) | ![Lakeside View](./doc/screenshots/lakeside.png) |
 | *Overgrown ancient ruined mansion with fountain* | *Atmospheric lake view and dense foliage* |
 
 ---
