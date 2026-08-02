@@ -1,0 +1,22 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.19f1 (7689f4515d75) revision 7768564'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) CoreSingleLanguage' Language: 'en' Physical Memory: 7541 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-07-21T01:12:40Z
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-MSI VN" at "2026-07-21T01:12:40.8601537Z"
+
+COMMAND LINE ARGUMENTS:
+D:\làm game\6000.3.19f1\Editor\Unity.exe
+-batchmode
+-quit
+-projectPath
+d:\GameProject\Last-Ember
+-executeMethod
+Antigravity.Editor.SetupFirstPersonScene.RunManualSetup
+-logFile
+d:\GameProject\Last-Ember\unity_setup.log
+Successfully changed project path to: d:\GameProject\Last-Ember
+D:/GameProject/Last-Ember
+Exiting without the bug reporter. Application will terminate with return code 1
