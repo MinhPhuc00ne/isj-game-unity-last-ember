@@ -108,3 +108,6 @@ video/
 *.anim
 *.controller
 *.overrideController
+
+# Exception for documentation screenshots
+!doc/screenshots/*.png
